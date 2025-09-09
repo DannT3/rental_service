@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from domain.value_objects.car_value_objects.brand import Brand
 from domain.value_objects.car_value_objects.car_id import CarId
-from domain.entities.entity import Entity
+from domain.entities.base_entity import Entity
 from domain.value_objects.car_value_objects.car_type import CarType
 from domain.value_objects.car_value_objects.price import CarPrice
 

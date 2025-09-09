@@ -13,3 +13,4 @@ class CarPrice:
         if self.value == 0:
             raise NullPriceValue
 
+
